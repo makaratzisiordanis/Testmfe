@@ -5,10 +5,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "aws-sdk": "^2.927.0",
     "chart.js": "^2.9.4",
     "primeflex": "^2.0.0",
     "primeicons": "^4.0.0",
     "primevue": "^3.0.1",
+    "uuid": "^8.3.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
